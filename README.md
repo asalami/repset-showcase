@@ -23,10 +23,7 @@ My focus is not simply generating code, but understanding implementation tradeof
 
 
 <p align="center">
-  <img src="assets/1.jpg" alt="Repset app screenshot 1" width="200">
-  <img src="assets/2.jpg" alt="Repset app screenshot 2" width="200">
-  <img src="assets/3.jpg" alt="Repset app screenshot 3" width="200">
-  <img src="assets/4.jpg" alt="Repset app screenshot 4" width="200">
+  <img src="assets/animation.gif" alt="Repset iOS app experience demo" width="600">
 </p>
   
 

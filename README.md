@@ -23,7 +23,7 @@ My focus is not simply generating code, but understanding implementation tradeof
 
 
 <p align="center">
-  <img src="assets/animation.gif" alt="Repset iOS app experience demo" width="600">
+  <img src="assets/animation.gif" alt="Repset iOS app experience demo" width="350">
 </p>
   
 
